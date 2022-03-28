@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theubaidahmed
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript, C Programming
+- 🌱 I’m currently learning JavaScript, react, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
